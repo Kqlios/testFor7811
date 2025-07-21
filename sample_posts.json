@@ -1,0 +1,28 @@
+[
+  {
+    "title": "人工智能发展趋势分析",
+    "link": "https://mp.weixin.qq.com/s/sample123",
+    "author": "科技前沿",
+    "publish_date": "2024-01-15",
+    "description": "深度解析人工智能的最新发展趋势...",
+    "content": "人工智能作为21世纪最重要的技术革命之一...",
+    "read_count": "1200",
+    "like_count": "89",
+    "images": [
+      "https://example.com/image1.jpg"
+    ],
+    "crawled_at": "2025-07-21T16:06:52.933462"
+  },
+  {
+    "title": "机器学习算法优化技巧",
+    "link": "https://mp.weixin.qq.com/s/sample456",
+    "author": "AI研究院",
+    "publish_date": "2024-01-14",
+    "description": "分享机器学习算法的优化方法...",
+    "content": "在机器学习项目中，算法优化是提升性能的关键...",
+    "read_count": "856",
+    "like_count": "67",
+    "images": [],
+    "crawled_at": "2025-07-21T16:06:52.933483"
+  }
+]
